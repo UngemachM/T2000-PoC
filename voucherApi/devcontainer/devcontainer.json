@@ -1,0 +1,48 @@
+{
+  "name": "Voucher API Dev Container",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "voucher-api",
+  "workspaceFolder": "/app",
+  "shutdownAction": "stopCompose",
+  
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-node-azure-pack",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml",
+        "ms-vscode.test-adapter-converter",
+        "hbenl.vscode-test-explorer",
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.vscode-docker"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "files.exclude": {
+          "**/node_modules": true,
+          "**/npm-debug.log": true
+        }
+      }
+    }
+  },
+  
+  "forwardPorts": [3000, 6379],
+  "portsAttributes": {
+    "3000": {
+      "label": "Voucher API",
+      "onAutoForward": "notify"
+    },
+    "6379": {
+      "label": "Redis"
+    }
+  },
+  
+  "postCreateCommand": "npm install",
+  "postStartCommand": "npm run dev",
+  
+  "remoteUser": "nodejs"
+}
