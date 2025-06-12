@@ -9,19 +9,26 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./src:/app/src
-      - ./tests:/app/tests
-      - ./package.json:/app/package.json
-      - node_modules:/app/node_modules
+      - ./src:/app/src:cached
+      - ./tests:/app/tests:cached
+      - voucher_node_modules:/app/node_modules
     environment:
-      - NODE_ENV=development
+      - NODE_ENV=${NODE_ENV:-development}
       - PORT=3000
-    command: npm run dev
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      redis:
+        condition: service_healthy
     restart: unless-stopped
     networks:
       - voucher-network
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
 
-  # Optional: Redis für Session-Management oder Caching
   redis:
     image: redis:7-alpine
     container_name: voucher-redis
@@ -31,9 +38,14 @@ services:
       - redis_data:/data
     networks:
       - voucher-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
 
 volumes:
-  node_modules:
+  voucher_node_modules:
   redis_data:
 
 networks:

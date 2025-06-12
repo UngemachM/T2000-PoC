@@ -1,0 +1,298 @@
+{
+  "productGroupId": "SG-530597",
+  "name": "Kataloge Softcover",
+  "image": {
+    "src": "https://cdn.flyeralarm.com/products/source/61/13/546113.jpg",
+    "alt": "Kataloge Softcover",
+  },
+  "components": [
+    {
+      "id": "CO-529984",
+      "attributes": [
+        {
+          "type": "chromaticity",
+          "values": [
+            { "id": "106529", "cpqid": null },
+            { "id": "113132", "cpqid": null },
+            { "id": "113134", "cpqid": null },
+            { "id": "113136", "cpqid": null },
+            { "id": "113138", "cpqid": null }
+          ]
+        },
+        {
+          "type": "finishing",
+          "values": [
+            { "id": "113978", "cpqid": null },
+            { "id": "114042", "cpqid": null },
+            { "id": "114169", "cpqid": null },
+            { "id": "114567", "cpqid": null },
+            { "id": "157193", "cpqid": null },
+            { "id": "177146", "cpqid": null },
+            { "id": "177203", "cpqid": null }
+          ]
+        },
+        {
+          "type": "folding",
+          "values": [
+            { "id": "526070", "cpqid": null }
+          ]
+        },
+        {
+          "type": "material",
+          "values": [
+            { "id": "107019", "cpqid": null },
+            { "id": "107040", "cpqid": null },
+            { "id": "107049", "cpqid": null },
+            { "id": "114344", "cpqid": null },
+            { "id": "114348", "cpqid": null },
+            { "id": "114354", "cpqid": null },
+            { "id": "114547", "cpqid": null },
+            { "id": "114548", "cpqid": null },
+            { "id": "114630", "cpqid": null },
+            { "id": "114635", "cpqid": null },
+            { "id": "114646", "cpqid": null },
+            { "id": "114649", "cpqid": null },
+            { "id": "114751", "cpqid": null },
+            { "id": "169183", "cpqid": null },
+            { "id": "176982", "cpqid": null },
+            { "id": "177005", "cpqid": null },
+            { "id": "177095", "cpqid": null },
+            { "id": "179751", "cpqid": null },
+            { "id": "598708", "cpqid": null }
+          ]
+        },
+        {
+          "type": "printablearea",
+          "values": [
+            { "id": "115614", "cpqid": null }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO-529985",
+      "attributes": [
+        {
+          "type": "chromaticity",
+          "values": [
+            { "id": "106529", "cpqid": null },
+            { "id": "113134", "cpqid": null },
+            { "id": "115668", "cpqid": null }
+          ]
+        },
+        {
+          "type": "finishing",
+          "values": [
+            { "id": "114169", "cpqid": null },
+            { "id": "114575", "cpqid": null }
+          ]
+        },
+        {
+          "type": "pagecount",
+          "values": [
+            { "id": "114818", "cpqid": null },
+            { "id": "114820", "cpqid": null },
+            { "id": "114822", "cpqid": null },
+            { "id": "114824", "cpqid": null },
+            { "id": "114826", "cpqid": null },
+            { "id": "114828", "cpqid": null },
+            { "id": "114830", "cpqid": null },
+            { "id": "114832", "cpqid": null },
+            { "id": "114834", "cpqid": null },
+            { "id": "114836", "cpqid": null },
+            { "id": "114838", "cpqid": null },
+            { "id": "114840", "cpqid": null },
+            { "id": "114842", "cpqid": null },
+            { "id": "114844", "cpqid": null },
+            { "id": "114846", "cpqid": null },
+            { "id": "114848", "cpqid": null },
+            { "id": "114850", "cpqid": null },
+            { "id": "114852", "cpqid": null },
+            { "id": "114854", "cpqid": null },
+            { "id": "114856", "cpqid": null },
+            { "id": "114858", "cpqid": null },
+            { "id": "114860", "cpqid": null },
+            { "id": "114862", "cpqid": null },
+            { "id": "114864", "cpqid": null },
+            { "id": "114866", "cpqid": null },
+            { "id": "114868", "cpqid": null },
+            { "id": "114870", "cpqid": null },
+            { "id": "114872", "cpqid": null },
+            { "id": "114874", "cpqid": null },
+            { "id": "114876", "cpqid": null },
+            { "id": "114878", "cpqid": null },
+            { "id": "114880", "cpqid": null },
+            { "id": "114882", "cpqid": null },
+            { "id": "114884", "cpqid": null },
+            { "id": "114886", "cpqid": null },
+            { "id": "114888", "cpqid": null },
+            { "id": "114890", "cpqid": null },
+            { "id": "114892", "cpqid": null },
+            { "id": "114894", "cpqid": null },
+            { "id": "114896", "cpqid": null },
+            { "id": "114898", "cpqid": null },
+            { "id": "114900", "cpqid": null },
+            { "id": "114902", "cpqid": null },
+            { "id": "176862", "cpqid": null },
+            { "id": "176869", "cpqid": null },
+            { "id": "176877", "cpqid": null },
+            { "id": "176881", "cpqid": null },
+            { "id": "176888", "cpqid": null },
+            { "id": "176895", "cpqid": null },
+            { "id": "176902", "cpqid": null },
+            { "id": "176906", "cpqid": null },
+            { "id": "176926", "cpqid": null },
+            { "id": "176931", "cpqid": null },
+            { "id": "176935", "cpqid": null },
+            { "id": "176942", "cpqid": null },
+            { "id": "176959", "cpqid": null },
+            { "id": "176972", "cpqid": null },
+            { "id": "177003", "cpqid": null },
+            { "id": "177010", "cpqid": null },
+            { "id": "177016", "cpqid": null },
+            { "id": "177025", "cpqid": null },
+            { "id": "177030", "cpqid": null },
+            { "id": "177040", "cpqid": null },
+            { "id": "177048", "cpqid": null },
+            { "id": "177055", "cpqid": null },
+            { "id": "177064", "cpqid": null },
+            { "id": "177070", "cpqid": null },
+            { "id": "177078", "cpqid": null },
+            { "id": "177083", "cpqid": null },
+            { "id": "177101", "cpqid": null },
+            { "id": "177108", "cpqid": null },
+            { "id": "177114", "cpqid": null },
+            { "id": "177118", "cpqid": null },
+            { "id": "177125", "cpqid": null },
+            { "id": "177129", "cpqid": null },
+            { "id": "177152", "cpqid": null },
+            { "id": "177160", "cpqid": null },
+            { "id": "177164", "cpqid": null },
+            { "id": "177171", "cpqid": null },
+            { "id": "177175", "cpqid": null },
+            { "id": "177185", "cpqid": null },
+            { "id": "177192", "cpqid": null },
+            { "id": "177196", "cpqid": null },
+            { "id": "177207", "cpqid": null },
+            { "id": "177214", "cpqid": null },
+            { "id": "177222", "cpqid": null },
+            { "id": "177226", "cpqid": null },
+            { "id": "177233", "cpqid": null },
+            { "id": "177237", "cpqid": null },
+            { "id": "177244", "cpqid": null },
+            { "id": "177249", "cpqid": null },
+            { "id": "177256", "cpqid": null },
+            { "id": "177261", "cpqid": null }
+          ]
+        },
+        {
+          "type": "folding",
+          "values": [
+            { "id": "522060", "cpqid": null }
+          ]
+        },
+        {
+          "type": "material",
+          "values": [
+            { "id": "107007", "cpqid": null },
+            { "id": "107017", "cpqid": null },
+            { "id": "107019", "cpqid": null },
+            { "id": "107036", "cpqid": null },
+            { "id": "107055", "cpqid": null },
+            { "id": "107175", "cpqid": null },
+            { "id": "113131", "cpqid": null },
+            { "id": "114344", "cpqid": null },
+            { "id": "114358", "cpqid": null },
+            { "id": "114368", "cpqid": null },
+            { "id": "114551", "cpqid": null },
+            { "id": "114555", "cpqid": null },
+            { "id": "114633", "cpqid": null },
+            { "id": "114638", "cpqid": null },
+            { "id": "114648", "cpqid": null },
+            { "id": "114650", "cpqid": null },
+            { "id": "114652", "cpqid": null },
+            { "id": "114653", "cpqid": null },
+            { "id": "114750", "cpqid": null },
+            { "id": "114753", "cpqid": null },
+            { "id": "114755", "cpqid": null },
+            { "id": "174407", "cpqid": null },
+            { "id": "176982", "cpqid": null },
+            { "id": "176991", "cpqid": null },
+            { "id": "176996", "cpqid": null },
+            { "id": "177005", "cpqid": null },
+            { "id": "177007", "cpqid": null },
+            { "id": "177013", "cpqid": null },
+            { "id": "177022", "cpqid": null },
+            { "id": "179709", "cpqid": null },
+            { "id": "179724", "cpqid": null },
+            { "id": "179765", "cpqid": null },
+            { "id": "179786", "cpqid": null },
+            { "id": "509093", "cpqid": null },
+            { "id": "575090", "cpqid": null },
+            { "id": "575091", "cpqid": null },
+            { "id": "575092", "cpqid": null },
+            { "id": "575093", "cpqid": null }
+          ]
+        },
+        {
+          "type": "printablearea",
+          "values": [
+            { "id": "115742", "cpqid": null }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CO-529983",
+      "attributes": [
+        {
+          "type": "holemaking",
+          "values": [
+            { "id": "539281", "cpqid": null }
+          ]
+        },
+        {
+          "type": "productionprocess",
+          "values": [
+            { "id": "115958", "cpqid": null }
+          ]
+        },
+        {
+          "type": "alignment",
+          "values": [
+            { "id": "113404", "cpqid": null }
+          ]
+        },
+        {
+          "type": "format",
+          "values": [
+            { "id": "107205", "cpqid": null },
+            { "id": "113113", "cpqid": null },
+            { "id": "113129", "cpqid": null },
+            { "id": "114688", "cpqid": null },
+            { "id": "114690", "cpqid": null },
+            { "id": "120461", "cpqid": null },
+            { "id": "120465", "cpqid": null },
+            { "id": "128253", "cpqid": null },
+            { "id": "154859", "cpqid": null },
+            { "id": "174391", "cpqid": null },
+            { "id": "176966", "cpqid": null },
+            { "id": "178993", "cpqid": null }
+          ]
+        },
+        {
+          "type": "roundedcorner",
+          "values": [
+            { "id": "154998", "cpqid": null }
+          ]
+        },
+        {
+          "type": "binding",
+          "values": [
+            { "id": "116622", "cpqid": null }
+          ]
+        }
+      ]
+    }
+  ]
+}
