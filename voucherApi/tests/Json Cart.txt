@@ -1,0 +1,210 @@
+{
+  "cart": [
+    {
+      "productGroupId": "SG-530597",
+      "name": "Kataloge Softcover",
+      "image": {
+        "src": "https://cdn.flyeralarm.com/products/source/61/13/546113.jpg",
+        "alt": "Kataloge Softcover"
+      },
+      "components": [
+        {
+          "id": "CO-529984",
+          "attributes": [
+            { "type": "chromaticity",
+                "values": 
+                 [{ "id": "106529", "cpqid": null }] },
+
+            { "type": "finishing", 
+                "values": 
+                    [{ "id": "113978", "cpqid": null }] },
+
+            { "type": "folding",
+                "values": 
+                     [{ "id": "526070", "cpqid": null }] },
+
+            { "type": "material",
+                "values": 
+                    [{ "id": "107019", "cpqid": null }] },
+
+            { "type": "printablearea", 
+                "values": 
+                    [{ "id": "115614", "cpqid": null }] },
+
+            { "type": "pagecount",
+                 "values": 
+                    [{ "id": "114818", "cpqid": null }] },
+
+            { "type": "holemaking", 
+                "values": 
+                    [{ "id": "539281", "cpqid": null }] },
+
+            { "type": "productionprocess", 
+                "values": 
+                    [{ "id": "115958", "cpqid": null }] },
+
+            { "type": "alignment",
+                 "values": 
+                     [{ "id": "113404", "cpqid": null }] },
+
+            { "type": "format",
+                 "values":
+                    [{ "id": "107205", "cpqid": null }] },
+
+            { "type": "roundedcorner",
+                 "values":
+                     [{ "id": "154998", "cpqid": null }] },
+
+            { "type": "binding", 
+                "values": 
+                    [{ "id": "116622", "cpqid": null }] }
+          ]
+        }
+      ]
+    },
+    {
+      "productGroupId": "SG-123456",
+      "name": "Flyer DIN A5",
+      "image": {
+        "src": "https://cdn.flyeralarm.com/products/source/99/88/123456.jpg",
+        "alt": "Flyer DIN A5"
+      },
+      "components": [
+        {
+          "id": "CO-888888",
+          "attributes": [
+            { "type": "chromaticity",
+                 "values":
+                      [{ "id": "113134", "cpqid": null }] },
+            { "type": "finishing",
+                 "values":
+                     [{ "id": "114575", "cpqid": null }] },
+            { "type": "folding",
+                "values": 
+                     [{ "id": "522060", "cpqid": null }] },
+            { "type": "material",
+                 "values": 
+                     [{ "id": "107007", "cpqid": null }] },
+            { "type": "printablearea",
+                 "values":
+                      [{ "id": "115742", "cpqid": null }] },
+            { "type": "pagecount", 
+                "values": 
+                    [{ "id": "114880", "cpqid": null }] },
+            { "type": "holemaking",
+                "values":
+                     [{ "id": "539281", "cpqid": null }] },
+            { "type": "productionprocess", 
+                "values": 
+                    [{ "id": "115958", "cpqid": null }] },
+            { "type": "alignment", 
+                "values": 
+                    [{ "id": "113404", "cpqid": null }] },
+            { "type": "format", 
+                "values": 
+                    [{ "id": "120465", "cpqid": null }] },
+            { "type": "roundedcorner",
+                 "values": 
+                    [{ "id": "154998", "cpqid": null }] },
+            { "type": "binding",
+                "values":
+                      [{ "id": "116622", "cpqid": null }] }
+          ]
+        }
+      ]
+    },
+    {
+      "productGroupId": "SG-789999",
+      "name": "Broschüre mit Umschlag",
+      "image": {
+        "src": "https://cdn.flyeralarm.com/products/source/11/22/789999.jpg",
+        "alt": "Broschüre mit Umschlag"
+      },
+      "components": [
+        {
+          "id": "CO-999111",
+          "attributes": [
+            { "type": "chromaticity",
+                 "values":
+                      [{ "id": "106529", "cpqid": null }] },
+            { "type": "finishing", 
+                "values": 
+                    [{ "id": "114575", "cpqid": null }] },
+            { "type": "folding",
+                 "values": 
+                     [{ "id": "526070", "cpqid": null }] },
+            { "type": "material",
+                 "values":
+                    [{ "id": "107019", "cpqid": null }] },
+            { "type": "printablearea", 
+                "values": 
+                    [{ "id": "115742", "cpqid": null }] },
+            { "type": "pagecount", 
+                "values": 
+                    [{ "id": "114818", "cpqid": null }] },
+            { "type": "holemaking", 
+                "values": 
+                    [{ "id": "539281", "cpqid": null }] },
+            { "type": "productionprocess",
+                 "values":
+                    [{ "id": "115958", "cpqid": null }] },
+            { "type": "alignment",
+                "values": 
+                    [{ "id": "113404", "cpqid": null }] },
+            { "type": "format",
+                 "values":
+                    [{ "id": "107205", "cpqid": null }] },
+            { "type": "roundedcorner",
+                "values": 
+                    [{ "id": "154998", "cpqid": null }] },
+            { "type": "binding",
+                "values": 
+                    [{ "id": "116622", "cpqid": null }] }
+          ]
+        },
+        {
+          "id": "CO-999112",
+          "attributes": [
+            { "type": "chromaticity",
+                 "values":
+                    [{ "id": "113134", "cpqid": null }] },
+            { "type": "finishing",
+                "values":
+                    [{ "id": "113978", "cpqid": null }] },
+            { "type": "folding", 
+                "values": 
+                    [{ "id": "522060", "cpqid": null }] },
+            { "type": "material",
+                 "values": 
+                     [{ "id": "107007", "cpqid": null }] },
+            { "type": "printablearea", 
+                "values": 
+                    [{ "id": "115614", "cpqid": null }] },
+            { "type": "pagecount", 
+                "values": 
+                    [{ "id": "114880", "cpqid": null }] },
+            { "type": "holemaking", 
+                "values": 
+                    [{ "id": "539281", "cpqid": null }] },
+            { "type": "productionprocess",
+                "values":
+                    [{ "id": "115958", "cpqid": null }] },
+            { "type": "alignment",
+                "values":
+                    [{ "id": "113404", "cpqid": null }] },
+            { "type": "format",
+                 "values": 
+                     [{ "id": "120465", "cpqid": null }] },
+            { "type": "roundedcorner",
+                 "values": 
+                    [{ "id": "154998", "cpqid": null }] },
+            { "type": "binding",
+                 "values":
+                    [{ "id": "116622", "cpqid": null }] }
+          ]
+        }
+      ]
+    }
+  ],
+  "code": "SOMMER2025"
+}
